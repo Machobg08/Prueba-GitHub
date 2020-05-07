@@ -6,7 +6,6 @@
 package aprender_java;
 
 /**
- *
  * @author macho
  */
 public class Prueba {
